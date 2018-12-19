@@ -12,4 +12,4 @@ I have an Associate in Computer Science degree, a certificate in CompTIA IT Fund
 
 ### Contact me
 
-[email@domain.com](mailto:sheldonmcclish@gmail.com)
+[sheldonmcclish@gmail.com](mailto:sheldonmcclish@gmail.com)
