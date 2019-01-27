@@ -8,6 +8,8 @@ As of this writing (December 18, 2018), I am just now creating this page. I am l
 
 As I continue to update this page, I will update my credentials as well. I am looking for work in the IT industry.
 
+My LinkedIn profile is at www.linkedin.com/in/sheldon-mcclish
+
 <!-- #Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown #below).
 
 <!--#![_config.yml]({{ site.baseurl }}/images/config.png)
