@@ -13,3 +13,5 @@ I have an Associate in Computer Science degree, a certificate in CompTIA IT Fund
 ### Contact me
 
 [sheldonmcclish@gmail.com](mailto:sheldonmcclish@gmail.com)
+
+[linkedin](WWW.LINKEDIN.COM/IN/SHELDON-MCCLISH)
